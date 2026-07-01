@@ -1,6 +1,4 @@
-# namurulru.github.io
-
-Study
+#Study
 <!DOCTYPE html>
 <html lang="ko">
 <head>
